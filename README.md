@@ -1,0 +1,1 @@
+It is a maven-build multi-module project.
